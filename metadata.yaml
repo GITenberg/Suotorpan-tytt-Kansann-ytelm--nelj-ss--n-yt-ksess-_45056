@@ -1,0 +1,39 @@
+_repo: Suotorpan-tytt-Kansann-ytelm--nelj-ss--n-yt-ksess-_45056
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Halonen, Maija
+    gutenberg_agent_id: '44890'
+    url: http://www.gutenberg.org/2009/agents/44890
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fredgren, Bernt
+    gutenberg_agent_id: '43054'
+    url: http://www.gutenberg.org/2009/agents/43054
+  - agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerloef, Selma
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
+description: ''
+gutenberg_issued: '2014-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45056'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish drama -- Translations into Finnish'
+title: 'Suotorpan tyttö: Kansannäytelmä neljässä näytöksessä'
+url: http://www.gutenberg.org/ebooks/45056
